@@ -1,0 +1,63 @@
+support,itemsets,itemset_length
+0.5829458484189111,Garment Upper body,1
+0.38736754035109894,Garment Lower body,1
+0.20750832904466535,Garment Full body,1
+0.13896187148442085,Underwear,1
+0.12143701978204538,Accessories,1
+0.09345383737972919,Swimwear,1
+0.05664653249907455,Shoes,1
+0.04780134287975779,Socks & Tights,1
+0.02754980121647691,Nightwear,1
+0.00812288764291798,Unknown,1
+0.22219212630653895,Garment Lower body | Garment Upper body,2
+0.09994552639261325,Garment Full body | Garment Upper body,2
+0.07496290678392036,Garment Full body | Garment Lower body,2
+0.06384848512208408,Garment Upper body | Underwear,2
+0.06152207083976634,Accessories | Garment Upper body,2
+0.04441856195695682,Garment Lower body | Underwear,2
+0.03863111737106157,Accessories | Garment Lower body,2
+0.03151343331196523,Garment Upper body | Swimwear,2
+0.028585100715981835,Garment Upper body | Shoes,2
+0.026258686433664087,Garment Lower body | Swimwear,2
+0.02512407041240433,Garment Upper body | Socks & Tights,2
+0.022430485958750537,Garment Lower body | Shoes,2
+0.02229204474660744,Accessories | Garment Full body,2
+0.020859479160083187,Garment Full body | Underwear,2
+0.018226086537795956,Garment Full body | Swimwear,2
+0.01799133839546635,Garment Lower body | Socks & Tights,2
+0.01578229818431341,Accessories | Underwear,2
+0.015529492492573833,Garment Full body | Shoes,2
+0.014427981978565688,Garment Upper body | Nightwear,2
+0.011969145667241499,Swimwear | Underwear,2
+0.01052755130601226,Socks & Tights | Underwear,2
+0.009314685903975972,Garment Lower body | Nightwear,2
+0.009164206325559558,Accessories | Shoes,2
+0.009097995311056336,Accessories | Swimwear,2
+0.008640537392670442,Accessories | Socks & Tights,2
+0.0074306815822024795,Nightwear | Underwear,2
+0.007099626509686371,Garment Full body | Socks & Tights,2
+0.007009338762636523,Shoes | Underwear,2
+0.0052728044277111155,Shoes | Swimwear,2
+0.005170478314387954,Garment Full body | Nightwear,2
+0.051993703934439056,Garment Full body | Garment Lower body | Garment Upper body,3
+0.030785112152429794,Garment Lower body | Garment Upper body | Underwear,3
+0.027856779556446394,Accessories | Garment Lower body | Garment Upper body,3
+0.017013221135759666,Garment Lower body | Garment Upper body | Swimwear,3
+0.016570811175215413,Garment Lower body | Garment Upper body | Shoes,3
+0.014069840581934626,Accessories | Garment Full body | Garment Upper body,3
+0.013835092439605021,Garment Full body | Garment Upper body | Underwear,3
+0.011812646905688428,Garment Lower body | Garment Upper body | Socks & Tights,3
+0.01064793496874539,Garment Full body | Garment Upper body | Swimwear,3
+0.010641915785608734,Garment Full body | Garment Lower body | Underwear,3
+0.010548618446990558,Accessories | Garment Full body | Garment Lower body,3
+0.009979805640576517,Garment Full body | Garment Upper body | Shoes,3
+0.009690884850017005,Accessories | Garment Upper body | Underwear,3
+0.0094561367076874,Garment Full body | Garment Lower body | Swimwear,3
+0.008475009856412386,Garment Full body | Garment Lower body | Shoes,3
+0.00685885918422011,Garment Lower body | Garment Upper body | Nightwear,3
+0.006792648169716887,Accessories | Garment Lower body | Underwear,3
+0.0063682957585826025,Garment Upper body | Swimwear | Underwear,3
+0.005971029671563272,Accessories | Garment Upper body | Shoes,3
+0.005760358261780294,Garment Upper body | Socks & Tights | Underwear,3
+0.005182516680661268,Garment Lower body | Swimwear | Underwear,3
+0.005089219342043092,Accessories | Garment Upper body | Swimwear,3

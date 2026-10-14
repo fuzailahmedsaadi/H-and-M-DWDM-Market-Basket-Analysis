@@ -1,0 +1,29 @@
+﻿# Dataset files
+data/
+
+# Python environment and cache
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Trained machine-learning models
+models/
+
+# Ignore large generated outputs by default
+outputs/*
+
+# Keep small, useful analysis results
+!outputs/association_rules.csv
+!outputs/association_rule_metrics.txt
+!outputs/classification_feature_importance.csv
+!outputs/classification_metrics.txt
+!outputs/clustering_metrics.txt
+!outputs/cluster_summary.csv
+!outputs/frequent_itemsets.csv
+!outputs/next_item_prediction_metrics.txt
+!outputs/next_item_transition_counts.csv

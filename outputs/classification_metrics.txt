@@ -1,0 +1,33 @@
+H&M Basket Value Classification - Results
+==========================================
+Target: High-value vs Low-value basket, threshold = median basket_value
+Note: H&M prices are anonymised/scaled; no cost/margin data is available.
+Usable baskets: 332,271
+Median threshold: 0.06096600
+Train rows: 265,816
+Test rows: 66,455
+Accuracy: 0.8206
+
+Confusion matrix (rows=actual [Low, High], columns=predicted [Low, High]):
+[[28071  5218]
+ [ 6705 26461]]
+
+Classification report:
+              precision    recall  f1-score   support
+
+   Low-value     0.8072    0.8433    0.8248     33289
+  High-value     0.8353    0.7978    0.8161     33166
+
+    accuracy                         0.8206     66455
+   macro avg     0.8212    0.8205    0.8205     66455
+weighted avg     0.8212    0.8206    0.8205     66455
+
+Feature importance (highest first):
+       feature  importance
+total_quantity    0.487596
+  unique_items    0.372254
+   channel_key    0.063751
+  day_of_month    0.036118
+         month    0.021162
+   day_of_week    0.013445
+       quarter    0.005674

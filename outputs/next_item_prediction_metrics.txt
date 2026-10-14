@@ -1,0 +1,32 @@
+MARKET BASKET ANALYSIS - NEXT LIKELY PRODUCT-GROUP PREDICTION
+
+Customer-day events: 328,853
+Product groups: 18
+Training transitions: 214,767
+Test transitions: 64,421
+Chronological cutoff date: 2020-04-28
+Top-1 accuracy (hit rate): 0.5241 (52.41%)
+Top-3 hit rate: 0.8337 (83.37%)
+Mean recall at 3: 0.7202 (72.02%)
+
+Method: for each customer, learn product-group transitions between consecutive
+purchase days in the earlier time period; recommend the most frequent next groups
+for product groups seen on the previous purchase day.
+
+Important limitations:
+- The dataset has no explicit order ID or exact time of purchase.
+- A customer-day is used as the purchase-event proxy; channels are combined per day.
+- Predictions are at product-group level, not exact article level.
+- These are offline historical evaluation metrics, not guaranteed future outcomes.
+
+Top 10 learned category transitions:
+Garment Upper body -> Garment Upper body | count=84,480
+Garment Upper body -> Garment Lower body | count=51,172
+Garment Lower body -> Garment Upper body | count=50,352
+Garment Lower body -> Garment Lower body | count=39,764
+Garment Upper body -> Garment Full body | count=25,522
+Garment Full body -> Garment Upper body | count=24,425
+Garment Lower body -> Garment Full body | count=17,445
+Garment Upper body -> Underwear | count=17,236
+Garment Full body -> Garment Lower body | count=17,130
+Garment Upper body -> Accessories | count=16,817

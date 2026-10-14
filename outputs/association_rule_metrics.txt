@@ -1,0 +1,28 @@
+MARKET BASKET ANALYSIS - ASSOCIATION RULE MINING
+
+Proxy baskets analysed: 332,271
+Product groups: 18
+Minimum support: 0.0050
+Minimum confidence: 0.1000
+Maximum itemset length: 3
+Frequent itemsets found: 62
+Association rules retained (lift > 1): 71
+
+Interpretation: support is the fraction of baskets containing both sides;
+confidence is the fraction of antecedent baskets that also contain the
+consequent; lift > 1 means the consequent is more common with the
+antecedent than overall.
+
+Caveat: baskets are customer + date + channel proxies, not confirmed order IDs.
+
+Top 10 rules by lift:
+Shoes -> Garment Full body | Garment Lower body | support=0.0085, confidence=0.1496, lift=1.9958
+Garment Full body | Garment Lower body -> Shoes | support=0.0085, confidence=0.1131, lift=1.9958
+Nightwear -> Underwear | support=0.0074, confidence=0.2697, lift=1.9410
+Socks & Tights -> Garment Upper body | Underwear | support=0.0058, confidence=0.1205, lift=1.8874
+Garment Lower body | Shoes -> Garment Full body | support=0.0085, confidence=0.3778, lift=1.8208
+Shoes -> Garment Full body | Garment Upper body | support=0.0100, confidence=0.1762, lift=1.7627
+Garment Lower body | Swimwear -> Garment Full body | support=0.0095, confidence=0.3601, lift=1.7354
+Garment Upper body | Shoes -> Accessories | support=0.0060, confidence=0.2089, lift=1.7201
+Shoes -> Accessories | Garment Upper body | support=0.0060, confidence=0.1054, lift=1.7133
+Garment Upper body | Shoes -> Garment Full body | support=0.0100, confidence=0.3491, lift=1.6825

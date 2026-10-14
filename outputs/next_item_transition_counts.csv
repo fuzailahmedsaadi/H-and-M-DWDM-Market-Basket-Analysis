@@ -1,0 +1,207 @@
+previous_product_group,next_product_group,transition_count
+Garment Upper body,Garment Upper body,84480
+Garment Upper body,Garment Lower body,51172
+Garment Lower body,Garment Upper body,50352
+Garment Lower body,Garment Lower body,39764
+Garment Upper body,Garment Full body,25522
+Garment Full body,Garment Upper body,24425
+Garment Lower body,Garment Full body,17445
+Garment Upper body,Underwear,17236
+Garment Full body,Garment Lower body,17130
+Garment Upper body,Accessories,16817
+Accessories,Garment Upper body,16588
+Underwear,Garment Upper body,16516
+Garment Full body,Garment Full body,14616
+Garment Lower body,Underwear,11216
+Underwear,Garment Lower body,11108
+Accessories,Garment Lower body,10699
+Garment Lower body,Accessories,10388
+Garment Upper body,Swimwear,9620
+Swimwear,Garment Upper body,9100
+Garment Upper body,Shoes,7636
+Underwear,Underwear,7635
+Shoes,Garment Upper body,7394
+Garment Lower body,Swimwear,6879
+Swimwear,Garment Lower body,6684
+Garment Upper body,Socks & Tights,6573
+Socks & Tights,Garment Upper body,6476
+Accessories,Accessories,5586
+Accessories,Garment Full body,5515
+Garment Full body,Underwear,5491
+Garment Full body,Accessories,5435
+Underwear,Garment Full body,5417
+Garment Lower body,Shoes,5300
+Shoes,Garment Lower body,5257
+Swimwear,Swimwear,4829
+Socks & Tights,Garment Lower body,4333
+Garment Lower body,Socks & Tights,4251
+Accessories,Underwear,4116
+Garment Full body,Swimwear,3998
+Swimwear,Garment Full body,3957
+Underwear,Accessories,3907
+Garment Upper body,Nightwear,3817
+Nightwear,Garment Upper body,3633
+Shoes,Garment Full body,3179
+Garment Full body,Shoes,3020
+Underwear,Swimwear,2971
+Swimwear,Underwear,2895
+Nightwear,Garment Lower body,2434
+Garment Lower body,Nightwear,2410
+Accessories,Swimwear,2399
+Shoes,Shoes,2295
+Swimwear,Accessories,2186
+Socks & Tights,Garment Full body,2036
+Accessories,Shoes,1977
+Socks & Tights,Underwear,1930
+Shoes,Accessories,1920
+Garment Full body,Socks & Tights,1915
+Underwear,Socks & Tights,1807
+Shoes,Underwear,1754
+Underwear,Shoes,1735
+Socks & Tights,Accessories,1689
+Accessories,Socks & Tights,1678
+Socks & Tights,Socks & Tights,1410
+Garment Full body,Nightwear,1289
+Nightwear,Garment Full body,1255
+Shoes,Swimwear,1196
+Swimwear,Shoes,1125
+Nightwear,Underwear,1116
+Underwear,Nightwear,1077
+Accessories,Nightwear,913
+Nightwear,Accessories,876
+Socks & Tights,Swimwear,803
+Nightwear,Nightwear,726
+Garment Upper body,Unknown,684
+Shoes,Socks & Tights,667
+Swimwear,Socks & Tights,625
+Socks & Tights,Shoes,609
+Unknown,Garment Upper body,518
+Nightwear,Swimwear,506
+Garment Lower body,Unknown,473
+Swimwear,Nightwear,450
+Nightwear,Socks & Tights,446
+Socks & Tights,Nightwear,435
+Unknown,Garment Lower body,380
+Shoes,Nightwear,377
+Nightwear,Shoes,371
+Underwear,Unknown,264
+Garment Full body,Unknown,228
+Unknown,Underwear,213
+Unknown,Garment Full body,199
+Accessories,Unknown,171
+Unknown,Accessories,110
+Swimwear,Unknown,107
+Unknown,Swimwear,100
+Socks & Tights,Unknown,85
+Bags,Garment Upper body,77
+Garment Upper body,Bags,77
+Shoes,Unknown,69
+Unknown,Unknown,60
+Items,Garment Upper body,57
+Unknown,Shoes,57
+Garment Upper body,Items,56
+Unknown,Socks & Tights,46
+Garment Lower body,Bags,43
+Bags,Garment Lower body,41
+Nightwear,Unknown,39
+Items,Garment Lower body,36
+Garment Lower body,Items,35
+Unknown,Nightwear,33
+Cosmetic,Garment Upper body,29
+Bags,Underwear,28
+Bags,Garment Full body,25
+Underwear,Bags,25
+Accessories,Bags,24
+Garment Full body,Bags,23
+Items,Accessories,23
+Garment Full body,Items,22
+Bags,Accessories,21
+Cosmetic,Garment Lower body,21
+Accessories,Items,20
+Items,Garment Full body,15
+Garment Lower body,Cosmetic,13
+Items,Underwear,13
+Garment Upper body,Cosmetic,12
+Items,Socks & Tights,12
+Underwear,Items,12
+Accessories,Cosmetic,10
+Cosmetic,Garment Full body,9
+Cosmetic,Socks & Tights,9
+Cosmetic,Accessories,8
+Garment Full body,Cosmetic,8
+Garment Upper body,Underwear/nightwear,8
+Shoes,Bags,8
+Swimwear,Bags,8
+Nightwear,Bags,7
+Socks & Tights,Bags,7
+Underwear/nightwear,Garment Upper body,7
+Bags,Shoes,6
+Bags,Socks & Tights,6
+Garment Lower body,Underwear/nightwear,6
+Garment Upper body,Furniture,6
+Socks & Tights,Items,6
+Swimwear,Items,6
+Underwear,Cosmetic,6
+Bags,Nightwear,5
+Bags,Swimwear,5
+Cosmetic,Underwear,5
+Furniture,Garment Upper body,5
+Garment Full body,Underwear/nightwear,5
+Items,Shoes,5
+Shoes,Items,5
+Items,Swimwear,4
+Shoes,Cosmetic,4
+Underwear/nightwear,Garment Full body,4
+Underwear/nightwear,Garment Lower body,4
+Accessories,Underwear/nightwear,3
+Cosmetic,Shoes,3
+Furniture,Garment Lower body,3
+Garment Upper body,Garment and Shoe care,3
+Interior textile,Garment Upper body,3
+Nightwear,Items,3
+Socks & Tights,Cosmetic,3
+Underwear,Underwear/nightwear,3
+Accessories,Garment and Shoe care,2
+Bags,Unknown,2
+Furniture,Accessories,2
+Furniture,Garment Full body,2
+Furniture,Socks & Tights,2
+Furniture,Underwear,2
+Garment Full body,Furniture,2
+Garment Lower body,Furniture,2
+Garment Upper body,Interior textile,2
+Garment and Shoe care,Accessories,2
+Garment and Shoe care,Garment Upper body,2
+Interior textile,Garment Full body,2
+Nightwear,Underwear/nightwear,2
+Shoes,Underwear/nightwear,2
+Socks & Tights,Underwear/nightwear,2
+Swimwear,Cosmetic,2
+Underwear/nightwear,Accessories,2
+Underwear/nightwear,Socks & Tights,2
+Underwear/nightwear,Swimwear,2
+Accessories,Furniture,1
+Accessories,Interior textile,1
+Bags,Bags,1
+Cosmetic,Cosmetic,1
+Cosmetic,Nightwear,1
+Cosmetic,Swimwear,1
+Furniture,Nightwear,1
+Garment Full body,Garment and Shoe care,1
+Garment Full body,Interior textile,1
+Garment Lower body,Garment and Shoe care,1
+Garment and Shoe care,Underwear,1
+Interior textile,Garment Lower body,1
+Interior textile,Underwear,1
+Items,Cosmetic,1
+Items,Items,1
+Items,Nightwear,1
+Items,Unknown,1
+Nightwear,Cosmetic,1
+Nightwear,Furniture,1
+Nightwear,Garment and Shoe care,1
+Swimwear,Furniture,1
+Underwear,Interior textile,1
+Underwear/nightwear,Nightwear,1
+Underwear/nightwear,Underwear,1
+Unknown,Bags,1
